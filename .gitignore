@@ -1,0 +1,16 @@
+# ноутбуки
+.ipynb_checkpoints/
+# данные
+data/raw/*.csv
+data/processed/*.csv
+#модели
+models/*.joblib
+
+#базовые файлы
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
